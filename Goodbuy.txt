@@ -1,1 +1,1 @@
-Print («Goodbyu»)
+Print («Goodbyu»);
